@@ -1,0 +1,1 @@
+This module consists of a component that lets user pick a value within a limited number of options. You can choose to allow or disallow custom text values (see `allowCustomValues` prop in [documentation](#documentation)). If custom values are allowed, a text input can be used to enter a value that is not in the options list.
