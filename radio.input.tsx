@@ -105,7 +105,7 @@ export default (props: RadioInputProps) => {
     };
 
     return (
-        <Wrapper>
+        <Wrapper style={props?.style}>
             {props.label ? <Label>{props.label || ""}</Label> : null}
             <Items>
                 {props.items.map((item, index) => (
