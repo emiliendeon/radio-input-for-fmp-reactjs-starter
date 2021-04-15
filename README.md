@@ -21,7 +21,7 @@
 
 <br />
 
-<div align="center"><strong>Radio input ofr your React app</strong></div>
+<div align="center"><strong>Radio input for your React app</strong></div>
 
 <br />
 
